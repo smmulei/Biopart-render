@@ -1,0 +1,5 @@
+-50,500
+Promoter,R,0,0,50,20,#000000,#ffffff,pTET,1,2,12
+Rectangle,R,100,0,150,50,#000000,#ff5500,mCherry,1,2,12
+Rectangle,R,270,0,100,50,#000000,#00ffff,PGK,1,2,12
+Rectangle,R,350,0,100,50,#000000,#00ffff,CD20,1,2,12
